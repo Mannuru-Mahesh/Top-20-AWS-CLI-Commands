@@ -1,6 +1,6 @@
 Top 20 AWS CLI Commands
 
-## Table of Contents
+Table of Contents
 
 * Introduction
 * Prerequisites
